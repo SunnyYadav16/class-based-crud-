@@ -1,0 +1,5 @@
+Django == 4.0.3
+djangorestframework
+psycopg2-binary == 2.9.3
+django-crispy-forms
+Pillow == 9.0.1
